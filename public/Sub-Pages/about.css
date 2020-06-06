@@ -1,0 +1,78 @@
+
+.link {
+
+    font-size: 25px;
+    color: black;
+}
+
+.link a {
+
+    color: #4DB6AC;
+}
+
+.about{
+
+    color: #4DB6AC;
+    text-align: center;
+    font-weight: bold;
+    margin-top: 50px;
+}
+
+.para {
+    margin-top: 70px;
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 25px;
+    font-weight: bold;
+
+}
+
+.foot {
+    margin-top: 550px;
+    padding-top: 60px;
+    padding-bottom: 30px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+ 
+
+}
+
+.foot .contactu p {
+    color: white;
+    margin-top: -10px;
+}
+
+.foot div p img {
+    width: 14px;
+    height: 14px;
+}
+
+.uselink p {
+    color: white;
+}
+
+.connect {
+    padding-bottom: 50px;
+}
+
+.connect p {
+    color: white;
+}
+
+.connect button {
+    border-radius: 50px;
+    border: none;
+    background-color: black;
+}
+
+.connect button img {
+    width: 16px;
+    height: 16px;
+}
+
+.foob {
+
+    margin-top: 680px;
+    text-align: center;
+
+}
+

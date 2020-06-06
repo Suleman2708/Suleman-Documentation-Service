@@ -1,0 +1,84 @@
+.navbar-nav a {
+
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif !important;
+    font-size: 18px !important;
+    text-transform: uppercase !important;
+    font-weight: bold !important;
+}
+
+.navbar-light .navbar-brand {
+
+    color: #fff !important; 
+    font-size: 25px !important;
+    text-transform: uppercase !important;
+    font-weight: bold !important;
+    padding-right: 300px;
+   
+}
+
+.navbar-light .navbar-nav .nav-link {
+
+    color: #fff !important; 
+}
+
+
+.carousel-item {
+
+        height: 100vx;
+        min-height: 300px;
+        background: no-repeat center center scroll;
+        background-size: cover;
+}
+
+.carousel-caption {
+
+    margin-bottom: 280px;
+}
+
+.carousel-caption h5 {
+
+    font-size: 45px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    margin-top: 25px;
+}
+
+.carousel-caption p {
+
+    font-size: 20px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin: auto;
+    width: 60%;
+    line-height: 1.9;
+}
+
+.carousel-caption a {
+
+   text-transform: uppercase;
+   padding: 10px 30px; 
+   display: inline-block; 
+   background: #262626;
+   margin-top: 15px;
+   color: #fff;
+}
+
+.foot {
+    padding-top: 60px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+}
+
+.foot .contactu p {
+    color: white;
+    margin-top: -10px;
+}
+
+.foot div p img {
+    width: 14px;
+    height: 14px;
+}
+
+
+
+

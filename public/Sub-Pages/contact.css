@@ -1,0 +1,32 @@
+.link {
+
+    font-size: 25px;
+    color: black;
+}
+
+.link a {
+
+    color: #4DB6AC;
+}
+
+.contact{
+    color: #4DB6AC;
+    text-align: center;
+    font-weight: bold;
+    margin-top: 50px;
+    
+}
+
+.con{
+    margin-top: 70px;
+     font-size: 30px;
+    font-weight: bold;
+    color: blueviolet;
+}
+.foog{
+
+    margin-top: 480px;
+    text-align: center;
+
+    
+}
